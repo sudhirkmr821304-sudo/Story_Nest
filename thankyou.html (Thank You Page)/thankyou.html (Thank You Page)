@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Thank You | StoryNest</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <section class="thankyou">
+    <div class="container">
+      <h1>🎉 Thank You for Joining StoryNest!</h1>
+      <p>Your free chapter has been sent to your email.</p>
+      <a href="sales.html" class="btn">Get the Full eBook at 30% Off</a>
+    </div>
+  </section>
+</body>
+</html>
