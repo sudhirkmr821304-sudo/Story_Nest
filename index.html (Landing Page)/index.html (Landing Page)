@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>StoryNest | Free Chapter</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <section class="landing">
+    <div class="container">
+      <h1>📖 Unlock 1 Free Chapter of StoryNest</h1>
+      <p>Discover inspiring stories that relax your mind and bring joy.</p>
+      <form class="lead-form" action="thankyou.html">
+        <input type="text" placeholder="Enter your name" required>
+        <input type="email" placeholder="Enter your email" required>
+        <button type="submit">Get My Free Chapter</button>
+      </form>
+    </div>
+  </section>
+</body>
+</html>
