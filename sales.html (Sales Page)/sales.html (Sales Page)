@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>StoryNest | Special Offer</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <section class="sales">
+    <div class="container">
+      <h1>✨ Get the Full StoryNest eBook</h1>
+      <p>Relax, motivate, and enjoy with 100+ inspiring short stories.</p>
+      <p class="price">Now only ₹199 <span class="old">₹299</span></p>
+      <a href="checkout.html" class="btn">Buy Now</a>
+    </div>
+  </section>
+</body>
+</html>
